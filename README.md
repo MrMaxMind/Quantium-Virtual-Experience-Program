@@ -109,9 +109,12 @@ Deliver insights and recommendations to the Category Manager using the findings 
 
 ---
 
-## Contributing
+## 🤝 **Contributing**
+
 If you have suggestions or improvements, feel free to open an issue or create a pull request.
 
 ---
 
-## *Thank you for visiting! If you find this project useful, please consider starring the repository. Happy coding!*
+## ⭐ **Thank You!**
+
+Thank you for visiting! If you find this project useful, please consider starring the repository. Happy coding!
